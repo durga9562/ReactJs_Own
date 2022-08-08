@@ -1,0 +1,33 @@
+.container-fluid {
+    width: 100vw;
+    height: 70px;
+    border: 0 solid royalblue;
+    box-shadow: 0 4px 2px -2px gray;
+    background-color: aquamarine;
+}
+.container-fluid:hover{
+    background-color: lightskyblue;
+
+}
+
+.first{
+    display: flex;
+    flex: row;
+    justify-content: space-around;
+  
+    align-items: center;
+
+}
+.second{
+    display: flex;
+    flex: row;
+    
+    justify-content:space-between;
+    align-items: center; 
+  justify-content: flex-end;
+    
+}
+p:hover{
+    font-size: 28px;
+    color: blueviolet;
+}

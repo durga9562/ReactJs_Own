@@ -1,0 +1,33 @@
+.projects-item-image {
+  height: 60px;
+  width: 120px;
+}
+
+.project-item-details-container {
+  padding: 32px 24px 32px 24px;
+}
+
+.project-item-title {
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: #183b56;
+  margin: 0;
+}
+
+.project-item-description {
+  font-family: 'Roboto';
+  font-size: 18px;
+  line-height: 32px;
+  margin-top: 12px;
+  margin-bottom: 0;
+  color: #7b8794;
+}
+
+.list-container {
+  list-style-type: none;
+}
+.button {
+  margin-right: 5px;
+}

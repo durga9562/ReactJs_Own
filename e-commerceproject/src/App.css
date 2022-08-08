@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+
+
+.Heading{
+  text-align: center;
+  font-size: 40px;
+  color: aqua;
+}
+.Heading:hover{
+  color: rgb(0, 89, 255);
+  text-shadow: 2px 2px 8px #FF0000;
+}

@@ -1,0 +1,11 @@
+.d-block{
+    width: 100vw;
+    height: 70vh;
+    justify-content: center;
+}
+
+.carosel{
+display: flex;
+flex: row;
+justify-content: center;
+}
