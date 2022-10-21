@@ -70,3 +70,23 @@
   flex-wrap: wrap;
   padding-left: 0px;
 }
+
+
+.ipl-dashboard-heading{
+  color: green;
+}
+
+/* @media screen and (min-width: 576px) and (max-width:765px){
+  .ipl-dashboard-heading{
+    color: red;
+  }
+  
+} */
+
+@media screen and  (max-width:765px){
+  .ipl-dashboard-heading{
+    color: red;
+  }
+  
+}
+
